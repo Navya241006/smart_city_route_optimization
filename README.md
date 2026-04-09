@@ -1,6 +1,6 @@
-# 🚦 Smart City Route Optimization System
+#  Smart City Route Optimization System
 
-## 📌 Overview
+##  Overview
 This project implements multiple **Design and Analysis of Algorithms (DAA)** concepts in a real-world scenario of a smart city road network.
 
 It includes:
@@ -11,23 +11,23 @@ It includes:
 
 ---
 
-## ⚙️ Features
+##  Features
 
-### 🔹 Greedy Algorithms
+###  Greedy Algorithms
 - Dijkstra’s Algorithm
 - Prim’s Algorithm
 - Activity Selection
 
-### 🔹 Dynamic Programming
+###  Dynamic Programming
 - Floyd Warshall
 - Bellman Ford
 - Travelling Salesman Problem (TSP)
 
-### 🔹 Backtracking
+###  Backtracking
 - N-Queens Problem
 - Subset Sum Problem
 
-### 🔹 Additional Features
+###  Additional Features
 - Graph type detection (Sparse/Moderate/Dense)
 - Algorithm recommendation system
 - Time complexity comparison
@@ -35,7 +35,7 @@ It includes:
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 - Graph Theory
 - Dynamic Programming
 - Backtracking
@@ -43,7 +43,7 @@ It includes:
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 ### Step 1: Compile
 ```bash
