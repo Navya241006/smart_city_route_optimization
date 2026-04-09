@@ -48,3 +48,7 @@ It includes:
 ### Step 1: Compile
 ```bash
 g++ smart_city_route_optimization.cpp -o project
+```
+### Author
+-Navya Garg ( https://github.com/Navya241006 )
+-Kartik Garg (https://github.com/kartikgarg090306-tech )
