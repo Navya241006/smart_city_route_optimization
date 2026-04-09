@@ -1,40 +1,50 @@
+# 🚦 Smart City Route Optimization System
 
-👉 Prevents useless compiled files from uploading
+## 📌 Overview
+This project implements multiple **Design and Analysis of Algorithms (DAA)** concepts in a real-world scenario of a smart city road network.
 
----
-
-# ⚖️ STEP 4: Add LICENSE
-
-Choose **MIT License (recommended)**
-
-Just create a file named `LICENSE` and paste from:
-👉 https://opensource.org/licenses/MIT
-
----
-
-# 🌐 STEP 5: Upload to GitHub (IMPORTANT)
-
-Since you already created repo with README, do this:
-
-### Option A (EASIEST – via website)
-
-1. Open your GitHub repo
-2. Click **"Add file" → "Upload files"**
-3. Upload:
-   - `smart_city_route_optimization.cpp`
-   - `.gitignore`
-4. Commit → Done ✅
+It includes:
+- Graph Algorithms
+- Dynamic Programming
+- Backtracking
+- Algorithm Comparison System
 
 ---
 
-### Option B (Best for learning – using Git)
+## ⚙️ Features
 
-Open terminal in your project folder:
+### 🔹 Greedy Algorithms
+- Dijkstra’s Algorithm
+- Prim’s Algorithm
+- Activity Selection
 
+### 🔹 Dynamic Programming
+- Floyd Warshall
+- Bellman Ford
+- Travelling Salesman Problem (TSP)
+
+### 🔹 Backtracking
+- N-Queens Problem
+- Subset Sum Problem
+
+### 🔹 Additional Features
+- Graph type detection (Sparse/Moderate/Dense)
+- Algorithm recommendation system
+- Time complexity comparison
+- Smart City visual map
+
+---
+
+## 🧠 Concepts Used
+- Graph Theory
+- Dynamic Programming
+- Backtracking
+- Greedy Algorithms
+
+---
+
+## 💻 How to Run
+
+### Step 1: Compile
 ```bash
-git init
-git add .
-git commit -m "Initial commit - Smart City DAA Project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
+g++ smart_city_route_optimization.cpp -o project
